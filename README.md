@@ -10,7 +10,7 @@ This is the backend service for <https://github.com/VarunDTU/LMSfrontend>
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Add an .env file following the .example.env file given
-4. Run development server: `nodemon run app.ts
+
 
 
 ## Installation
