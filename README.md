@@ -22,7 +22,3 @@ This is the backend service for <https://github.com/VarunDTU/LMSfrontend>
   node run app.js or nodemon run app.js
 ```
     
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/YT1z5Tf/Screenshot-2024-12-03-152955.png)
-
